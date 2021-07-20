@@ -1,0 +1,47 @@
+novel_catalog_name: "novel_v01"
+catalogs:
+  - "novel_v01"
+  - "estrs"
+  - "gangstr"
+  - "trf"
+plot:
+  ref_length_cutoff: 300
+catalog_urls:
+  estrs: "https://drive.google.com/uc?id=1eJ9Ae-4RO7kcCETmev31u3HQKCz4BpnL"
+  trf: "http://hgdownload.cse.ucsc.edu/goldenPath/hg38/database/simpleRepeat.txt.gz"
+  gangstr: "https://s3.amazonaws.com/gangstr/callsets/NA12878_trio_hg19_v13_1_filtered_level1.vcf.gz"
+filter_contigs:
+  - chr1
+  - chr2
+  - chr3
+  - chr4
+  - chr5
+  - chr6
+  - chr7
+  - chr8
+  - chr9
+  - chr10
+  - chr11
+  - chr12
+  - chr13
+  - chr14
+  - chr15
+  - chr16
+  - chr17
+  - chr18
+  - chr19
+  - chr20
+  - chr21
+  - chr22
+  - chrX
+  - chrY
+filter_motif_len:
+  min: 2
+  max: 6
+filter_ref_len:
+  min: 2
+  max: 300
+annotation_urls:
+  ccre: "https://api.wenglab.org/screen_v13/fdownloads/GRCh38-ccREs.bed"
+hg19_to_hg38_chain_url: "http://hgdownload.cse.ucsc.edu/goldenPath/hg19/liftOver/hg19ToHg38.over.chain.gz"
+reference_fasta_url: "https://hgdownload.cse.ucsc.edu/goldenpath/hg38/bigZips/latest/hg38.fa.gz"

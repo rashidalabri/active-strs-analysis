@@ -1,0 +1,6 @@
+configfile: "config/config.yaml"
+
+include: "rules/catalogs.smk"
+include: "rules/general_chars.smk"
+include: "rules/genotype.smk"
+include: "rules/regulation.smk"
