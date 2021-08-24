@@ -1,0 +1,2101 @@
+position	matches	mismatches	insertions	deletions	flank	sample	locus_id
+-1	256	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-2	255	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-3	254	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-4	255	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-5	254	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-6	253	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-7	250	3	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-8	253	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-9	250	2	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-10	251	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-11	251	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-12	250	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-13	234	16	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-14	250	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-15	250	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-16	249	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-17	249	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-18	250	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-19	250	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-20	248	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-21	249	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-22	248	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-23	247	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-24	247	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-25	248	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-26	247	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-27	248	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-28	248	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-29	248	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-30	246	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-31	246	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-32	246	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-33	246	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-34	244	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-35	245	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-36	244	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-37	244	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-38	244	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-39	244	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-40	244	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-41	242	2	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-42	243	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-43	241	3	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-44	244	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-45	242	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-46	242	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-47	241	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-48	241	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-49	241	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-50	241	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-51	241	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-52	239	2	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-53	240	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-54	241	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-55	241	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-56	241	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-57	241	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-58	241	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-59	240	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-60	241	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-61	239	2	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-62	241	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-63	241	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-64	240	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-65	240	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-66	240	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-67	238	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-68	238	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-69	238	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-70	238	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-71	237	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-72	237	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-73	236	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-74	237	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-75	237	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-76	236	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-77	236	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-78	236	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-79	236	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-80	236	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-81	234	2	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-82	235	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-83	234	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-84	234	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-85	234	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-86	233	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-87	233	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-88	233	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-89	234	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-90	234	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-91	232	2	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-92	234	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-93	234	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-94	234	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-95	232	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-96	232	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-97	231	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-98	231	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-99	231	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-100	229	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-101	227	3	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-102	230	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-103	229	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-104	230	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-105	230	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-106	230	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-107	229	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-108	230	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-109	230	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-110	230	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-111	230	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-112	230	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-113	229	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-114	230	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-115	229	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-116	228	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-117	229	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-118	229	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-119	229	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-120	228	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-121	227	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-122	227	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-123	227	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-124	226	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-125	225	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-126	224	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-127	224	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-128	222	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-129	222	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-130	222	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-131	222	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-132	222	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-133	222	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-134	222	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-135	221	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-136	221	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-137	219	2	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-138	220	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-139	221	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-140	220	1	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-141	220	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-142	220	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-143	219	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-144	219	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-145	219	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-146	219	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-147	219	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-148	219	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-149	219	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+-150	218	0	0	0	left	HG00118_realigned.bam	chr1_13417_13421
+1	219	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+2	218	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+3	218	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+4	219	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+5	218	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+6	217	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+7	216	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+8	215	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+9	217	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+10	215	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+11	216	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+12	216	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+13	215	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+14	216	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+15	216	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+16	214	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+17	212	3	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+18	215	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+19	213	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+20	212	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+21	211	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+22	210	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+23	210	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+24	208	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+25	209	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+26	207	3	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+27	209	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+28	208	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+29	208	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+30	208	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+31	208	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+32	207	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+33	205	3	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+34	208	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+35	208	0	1	0	right	HG00118_realigned.bam	chr1_13417_13421
+36	206	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+37	207	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+38	208	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+39	207	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+40	207	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+41	207	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+42	207	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+43	207	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+44	208	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+45	208	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+46	204	3	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+47	206	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+48	206	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+49	205	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+50	205	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+51	205	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+52	201	4	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+53	201	3	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+54	203	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+55	202	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+56	202	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+57	204	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+58	204	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+59	203	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+60	204	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+61	202	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+62	203	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+63	200	3	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+64	202	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+65	201	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+66	202	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+67	201	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+68	201	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+69	199	3	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+70	201	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+71	200	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+72	200	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+73	200	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+74	199	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+75	199	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+76	199	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+77	197	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+78	199	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+79	198	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+80	198	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+81	197	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+82	196	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+83	197	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+84	195	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+85	195	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+86	196	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+87	197	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+88	191	6	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+89	196	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+90	196	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+91	195	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+92	197	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+93	195	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+94	195	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+95	196	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+96	195	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+97	195	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+98	192	4	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+99	195	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+100	194	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+101	195	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+102	194	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+103	192	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+104	192	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+105	194	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+106	191	3	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+107	193	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+108	192	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+109	191	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+110	192	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+111	192	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+112	191	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+113	191	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+114	190	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+115	191	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+116	190	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+117	192	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+118	186	4	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+119	190	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+120	190	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+121	189	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+122	189	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+123	188	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+124	186	3	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+125	189	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+126	185	3	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+127	188	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+128	188	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+129	187	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+130	186	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+131	187	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+132	185	3	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+133	186	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+134	185	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+135	185	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+136	184	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+137	185	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+138	181	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+139	182	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+140	182	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+141	182	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+142	182	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+143	182	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+144	181	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+145	181	2	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+146	181	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+147	181	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+148	181	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+149	179	1	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+150	178	0	0	0	right	HG00118_realigned.bam	chr1_13417_13421
+0,-1,358,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+1,-2,355,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+2,-3,352,5,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+3,-4,354,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+4,-5,352,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+5,-6,354,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+6,-7,354,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+7,-8,351,4,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+8,-9,355,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+9,-10,354,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+10,-11,352,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+11,-12,352,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+12,-13,352,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+13,-14,350,4,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+14,-15,353,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+15,-16,351,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+16,-17,350,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+17,-18,351,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+18,-19,351,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+19,-20,351,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+20,-21,348,4,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+21,-22,351,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+22,-23,351,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+23,-24,347,4,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+24,-25,349,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+25,-26,347,4,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+26,-27,345,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+27,-28,346,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+28,-29,347,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+29,-30,337,10,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+30,-31,344,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+31,-32,344,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+32,-33,347,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+33,-34,345,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+34,-35,345,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+35,-36,347,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+36,-37,341,6,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+37,-38,345,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+38,-39,344,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+39,-40,347,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+40,-41,347,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+41,-42,346,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+42,-43,344,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+43,-44,341,6,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+44,-45,345,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+45,-46,345,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+46,-47,346,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+47,-48,346,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+48,-49,345,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+49,-50,343,4,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+50,-51,346,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+51,-52,344,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+52,-53,346,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+53,-54,343,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+54,-55,343,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+55,-56,340,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+56,-57,339,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+57,-58,339,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+58,-59,338,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+59,-60,335,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+60,-61,331,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+61,-62,329,5,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+62,-63,334,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+63,-64,331,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+64,-65,332,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+65,-66,331,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+66,-67,329,4,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+67,-68,332,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+68,-69,331,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+69,-70,331,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+70,-71,331,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+71,-72,331,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+72,-73,330,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+73,-74,328,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+74,-75,329,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+75,-76,325,4,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+76,-77,327,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+77,-78,324,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+78,-79,323,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+79,-80,323,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+80,-81,321,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+81,-82,320,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+82,-83,322,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+83,-84,320,2,0,1,left,HG00118_realigned.bam,chr1_15240_15252
+84,-85,318,4,0,1,left,HG00118_realigned.bam,chr1_15240_15252
+85,-86,321,0,0,1,left,HG00118_realigned.bam,chr1_15240_15252
+86,-87,321,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+87,-88,319,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+88,-89,321,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+89,-90,319,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+90,-91,319,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+91,-92,320,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+92,-93,319,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+93,-94,320,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+94,-95,320,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+95,-96,317,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+96,-97,317,3,0,1,left,HG00118_realigned.bam,chr1_15240_15252
+97,-98,319,1,0,1,left,HG00118_realigned.bam,chr1_15240_15252
+98,-99,319,1,0,1,left,HG00118_realigned.bam,chr1_15240_15252
+99,-100,319,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+100,-101,319,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+101,-102,319,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+102,-103,319,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+103,-104,318,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+104,-105,315,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+105,-106,316,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+106,-107,315,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+107,-108,316,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+108,-109,316,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+109,-110,315,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+110,-111,313,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+111,-112,313,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+112,-113,313,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+113,-114,313,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+114,-115,312,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+115,-116,310,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+116,-117,311,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+117,-118,311,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+118,-119,309,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+119,-120,311,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+120,-121,310,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+121,-122,306,4,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+122,-123,308,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+123,-124,310,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+124,-125,310,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+125,-126,309,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+126,-127,300,9,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+127,-128,307,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+128,-129,309,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+129,-130,307,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+130,-131,305,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+131,-132,307,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+132,-133,307,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+133,-134,306,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+134,-135,307,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+135,-136,302,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+136,-137,303,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+137,-138,305,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+138,-139,304,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+139,-140,302,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+140,-141,301,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+141,-142,303,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+142,-143,301,2,2,0,left,HG00118_realigned.bam,chr1_15240_15252
+143,-144,303,0,2,0,left,HG00118_realigned.bam,chr1_15240_15252
+144,-145,300,2,2,0,left,HG00118_realigned.bam,chr1_15240_15252
+145,-146,299,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+146,-147,299,2,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+147,-148,296,3,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+148,-149,298,1,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+149,-150,293,0,0,0,left,HG00118_realigned.bam,chr1_15240_15252
+150,1,339,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+151,2,338,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+152,3,339,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+153,4,339,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+154,5,338,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+155,6,334,4,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+156,7,337,1,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+157,8,338,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+158,9,338,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+159,10,337,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+160,11,334,3,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+161,12,336,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+162,13,335,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+163,14,336,0,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+164,15,336,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+165,16,334,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+166,17,335,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+167,18,334,1,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+168,19,334,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+169,20,335,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+170,21,333,2,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+171,22,287,46,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+172,23,331,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+173,24,329,4,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+174,25,332,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+175,26,332,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+176,27,331,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+177,28,330,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+178,29,330,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+179,30,328,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+180,31,328,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+181,32,326,3,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+182,33,328,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+183,34,327,2,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+184,35,325,1,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+185,36,326,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+186,37,326,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+187,38,326,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+188,39,325,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+189,40,325,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+190,41,325,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+191,42,324,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+192,43,325,1,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+193,44,324,1,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+194,45,325,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+195,46,324,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+196,47,324,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+197,48,324,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+198,49,325,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+199,50,324,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+200,51,325,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+201,52,325,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+202,53,325,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+203,54,321,3,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+204,55,322,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+205,56,324,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+206,57,324,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+207,58,321,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+208,59,320,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+209,60,319,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+210,61,317,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+211,62,315,3,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+212,63,317,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+213,64,315,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+214,65,315,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+215,66,314,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+216,67,314,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+217,68,313,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+218,69,314,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+219,70,314,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+220,71,311,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+221,72,311,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+222,73,312,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+223,74,313,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+224,75,312,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+225,76,311,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+226,77,312,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+227,78,312,0,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+228,79,307,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+229,80,306,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+230,81,305,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+231,82,305,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+232,83,304,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+233,84,303,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+234,85,300,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+235,86,299,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+236,87,300,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+237,88,298,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+238,89,297,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+239,90,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+240,91,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+241,92,298,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+242,93,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+243,94,298,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+244,95,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+245,96,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+246,97,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+247,98,299,0,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+248,99,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+249,100,297,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+250,101,297,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+251,102,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+252,103,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+253,104,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+254,105,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+255,106,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+256,107,297,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+257,108,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+258,109,297,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+259,110,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+260,111,299,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+261,112,298,1,2,0,right,HG00118_realigned.bam,chr1_15240_15252
+262,113,294,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+263,114,293,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+264,115,295,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+265,116,292,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+266,117,294,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+267,118,293,1,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+268,119,294,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+269,120,294,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+270,121,294,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+271,122,294,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+272,123,293,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+273,124,292,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+274,125,292,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+275,126,292,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+276,127,292,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+277,128,290,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+278,129,291,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+279,130,291,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+280,131,288,3,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+281,132,291,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+282,133,290,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+283,134,291,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+284,135,290,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+285,136,289,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+286,137,288,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+287,138,288,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+288,139,287,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+289,140,286,1,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+290,141,286,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+291,142,287,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+292,143,287,0,2,0,right,HG00118_realigned.bam,chr1_15240_15252
+293,144,284,3,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+294,145,286,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+295,146,287,0,1,0,right,HG00118_realigned.bam,chr1_15240_15252
+296,147,287,0,2,0,right,HG00118_realigned.bam,chr1_15240_15252
+297,148,285,2,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+298,149,285,1,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+299,150,265,0,0,0,right,HG00118_realigned.bam,chr1_15240_15252
+0,-1,386,14,0,15,left,HG00118_realigned.bam,chr1_16712_16727
+1,-2,373,26,0,13,left,HG00118_realigned.bam,chr1_16712_16727
+2,-3,380,19,0,20,left,HG00118_realigned.bam,chr1_16712_16727
+3,-4,383,13,0,14,left,HG00118_realigned.bam,chr1_16712_16727
+4,-5,374,22,0,9,left,HG00118_realigned.bam,chr1_16712_16727
+5,-6,379,16,0,5,left,HG00118_realigned.bam,chr1_16712_16727
+6,-7,377,17,0,3,left,HG00118_realigned.bam,chr1_16712_16727
+7,-8,385,8,0,2,left,HG00118_realigned.bam,chr1_16712_16727
+8,-9,389,4,3,4,left,HG00118_realigned.bam,chr1_16712_16727
+9,-10,373,19,0,3,left,HG00118_realigned.bam,chr1_16712_16727
+10,-11,380,9,1,5,left,HG00118_realigned.bam,chr1_16712_16727
+11,-12,370,19,1,1,left,HG00118_realigned.bam,chr1_16712_16727
+12,-13,366,23,1,4,left,HG00118_realigned.bam,chr1_16712_16727
+13,-14,375,13,0,1,left,HG00118_realigned.bam,chr1_16712_16727
+14,-15,382,5,0,2,left,HG00118_realigned.bam,chr1_16712_16727
+15,-16,375,12,2,0,left,HG00118_realigned.bam,chr1_16712_16727
+16,-17,380,7,4,2,left,HG00118_realigned.bam,chr1_16712_16727
+17,-18,374,11,2,4,left,HG00118_realigned.bam,chr1_16712_16727
+18,-19,369,14,2,2,left,HG00118_realigned.bam,chr1_16712_16727
+19,-20,367,16,1,3,left,HG00118_realigned.bam,chr1_16712_16727
+20,-21,373,10,0,1,left,HG00118_realigned.bam,chr1_16712_16727
+21,-22,372,9,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+22,-23,372,8,0,1,left,HG00118_realigned.bam,chr1_16712_16727
+23,-24,375,5,0,1,left,HG00118_realigned.bam,chr1_16712_16727
+24,-25,371,8,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+25,-26,371,8,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+26,-27,375,4,0,1,left,HG00118_realigned.bam,chr1_16712_16727
+27,-28,369,10,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+28,-29,360,18,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+29,-30,365,13,0,2,left,HG00118_realigned.bam,chr1_16712_16727
+30,-31,363,14,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+31,-32,370,7,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+32,-33,370,6,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+33,-34,368,8,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+34,-35,364,10,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+35,-36,370,4,0,1,left,HG00118_realigned.bam,chr1_16712_16727
+36,-37,372,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+37,-38,366,7,1,1,left,HG00118_realigned.bam,chr1_16712_16727
+38,-39,357,16,3,0,left,HG00118_realigned.bam,chr1_16712_16727
+39,-40,362,11,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+40,-41,364,7,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+41,-42,360,10,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+42,-43,359,9,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+43,-44,357,8,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+44,-45,358,7,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+45,-46,357,8,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+46,-47,346,17,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+47,-48,357,5,2,1,left,HG00118_realigned.bam,chr1_16712_16727
+48,-49,361,1,0,2,left,HG00118_realigned.bam,chr1_16712_16727
+49,-50,359,3,0,2,left,HG00118_realigned.bam,chr1_16712_16727
+50,-51,357,4,1,2,left,HG00118_realigned.bam,chr1_16712_16727
+51,-52,355,5,0,1,left,HG00118_realigned.bam,chr1_16712_16727
+52,-53,350,9,0,1,left,HG00118_realigned.bam,chr1_16712_16727
+53,-54,350,9,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+54,-55,351,8,0,3,left,HG00118_realigned.bam,chr1_16712_16727
+55,-56,348,9,0,1,left,HG00118_realigned.bam,chr1_16712_16727
+56,-57,351,4,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+57,-58,349,3,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+58,-59,351,0,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+59,-60,347,4,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+60,-61,347,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+61,-62,341,6,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+62,-63,341,3,2,0,left,HG00118_realigned.bam,chr1_16712_16727
+63,-64,343,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+64,-65,342,2,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+65,-66,338,6,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+66,-67,340,4,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+67,-68,340,4,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+68,-69,340,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+69,-70,338,3,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+70,-71,339,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+71,-72,338,2,1,1,left,HG00118_realigned.bam,chr1_16712_16727
+72,-73,339,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+73,-74,338,2,0,1,left,HG00118_realigned.bam,chr1_16712_16727
+74,-75,338,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+75,-76,334,5,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+76,-77,338,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+77,-78,335,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+78,-79,334,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+79,-80,332,4,1,1,left,HG00118_realigned.bam,chr1_16712_16727
+80,-81,334,2,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+81,-82,331,5,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+82,-83,336,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+83,-84,334,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+84,-85,331,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+85,-86,329,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+86,-87,329,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+87,-88,331,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+88,-89,331,0,2,0,left,HG00118_realigned.bam,chr1_16712_16727
+89,-90,329,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+90,-91,331,0,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+91,-92,330,0,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+92,-93,329,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+93,-94,326,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+94,-95,327,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+95,-96,321,7,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+96,-97,325,3,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+97,-98,327,1,3,0,left,HG00118_realigned.bam,chr1_16712_16727
+98,-99,326,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+99,-100,326,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+100,-101,324,3,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+101,-102,326,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+102,-103,327,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+103,-104,327,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+104,-105,326,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+105,-106,323,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+106,-107,323,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+107,-108,322,2,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+108,-109,322,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+109,-110,323,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+110,-111,322,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+111,-112,319,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+112,-113,320,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+113,-114,318,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+114,-115,315,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+115,-116,316,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+116,-117,315,0,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+117,-118,315,0,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+118,-119,311,4,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+119,-120,312,3,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+120,-121,314,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+121,-122,313,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+122,-123,313,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+123,-124,314,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+124,-125,314,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+125,-126,309,3,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+126,-127,312,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+127,-128,309,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+128,-129,310,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+129,-130,307,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+130,-131,305,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+131,-132,305,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+132,-133,304,3,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+133,-134,304,2,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+134,-135,302,4,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+135,-136,305,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+136,-137,302,3,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+137,-138,305,0,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+138,-139,305,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+139,-140,303,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+140,-141,304,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+141,-142,301,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+142,-143,301,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+143,-144,301,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+144,-145,300,2,1,0,left,HG00118_realigned.bam,chr1_16712_16727
+145,-146,301,1,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+146,-147,302,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+147,-148,302,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+148,-149,302,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+149,-150,279,0,0,0,left,HG00118_realigned.bam,chr1_16712_16727
+150,1,693,0,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+151,2,692,1,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+152,3,690,2,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+153,4,645,47,0,8,right,HG00118_realigned.bam,chr1_16712_16727
+154,5,689,3,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+155,6,685,5,0,7,right,HG00118_realigned.bam,chr1_16712_16727
+156,7,658,31,0,5,right,HG00118_realigned.bam,chr1_16712_16727
+157,8,685,3,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+158,9,682,4,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+159,10,677,9,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+160,11,682,2,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+161,12,680,4,2,0,right,HG00118_realigned.bam,chr1_16712_16727
+162,13,676,8,4,5,right,HG00118_realigned.bam,chr1_16712_16727
+163,14,679,4,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+164,15,674,9,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+165,16,679,4,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+166,17,681,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+167,18,681,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+168,19,681,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+169,20,677,4,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+170,21,680,1,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+171,22,675,3,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+172,23,676,1,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+173,24,674,3,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+174,25,671,5,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+175,26,672,3,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+176,27,673,2,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+177,28,671,3,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+178,29,674,0,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+179,30,672,2,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+180,31,670,2,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+181,32,670,1,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+182,33,669,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+183,34,670,1,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+184,35,667,4,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+185,36,668,3,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+186,37,666,4,3,0,right,HG00118_realigned.bam,chr1_16712_16727
+187,38,659,10,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+188,39,665,4,4,0,right,HG00118_realigned.bam,chr1_16712_16727
+189,40,668,1,3,0,right,HG00118_realigned.bam,chr1_16712_16727
+190,41,665,4,3,0,right,HG00118_realigned.bam,chr1_16712_16727
+191,42,665,4,3,0,right,HG00118_realigned.bam,chr1_16712_16727
+192,43,663,4,2,0,right,HG00118_realigned.bam,chr1_16712_16727
+193,44,664,2,2,0,right,HG00118_realigned.bam,chr1_16712_16727
+194,45,661,4,2,0,right,HG00118_realigned.bam,chr1_16712_16727
+195,46,663,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+196,47,662,2,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+197,48,662,1,3,0,right,HG00118_realigned.bam,chr1_16712_16727
+198,49,662,1,2,1,right,HG00118_realigned.bam,chr1_16712_16727
+199,50,656,7,2,1,right,HG00118_realigned.bam,chr1_16712_16727
+200,51,653,8,2,1,right,HG00118_realigned.bam,chr1_16712_16727
+201,52,653,7,4,0,right,HG00118_realigned.bam,chr1_16712_16727
+202,53,654,5,2,0,right,HG00118_realigned.bam,chr1_16712_16727
+203,54,653,5,2,0,right,HG00118_realigned.bam,chr1_16712_16727
+204,55,656,2,2,0,right,HG00118_realigned.bam,chr1_16712_16727
+205,56,656,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+206,57,654,4,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+207,58,653,4,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+208,59,655,1,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+209,60,650,6,2,0,right,HG00118_realigned.bam,chr1_16712_16727
+210,61,651,3,2,1,right,HG00118_realigned.bam,chr1_16712_16727
+211,62,653,1,0,2,right,HG00118_realigned.bam,chr1_16712_16727
+212,63,652,2,1,2,right,HG00118_realigned.bam,chr1_16712_16727
+213,64,651,3,0,2,right,HG00118_realigned.bam,chr1_16712_16727
+214,65,650,3,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+215,66,648,5,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+216,67,651,2,1,1,right,HG00118_realigned.bam,chr1_16712_16727
+217,68,650,2,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+218,69,651,1,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+219,70,646,3,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+220,71,644,5,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+221,72,647,1,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+222,73,645,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+223,74,640,6,1,2,right,HG00118_realigned.bam,chr1_16712_16727
+224,75,641,3,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+225,76,635,7,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+226,77,637,3,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+227,78,632,7,2,1,right,HG00118_realigned.bam,chr1_16712_16727
+228,79,633,5,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+229,80,632,5,1,2,right,HG00118_realigned.bam,chr1_16712_16727
+230,81,634,2,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+231,82,623,11,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+232,83,628,6,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+233,84,631,3,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+234,85,632,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+235,86,631,3,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+236,87,634,0,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+237,88,631,3,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+238,89,626,7,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+239,90,624,5,1,1,right,HG00118_realigned.bam,chr1_16712_16727
+240,91,624,5,1,2,right,HG00118_realigned.bam,chr1_16712_16727
+241,92,623,4,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+242,93,623,1,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+243,94,619,4,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+244,95,620,3,2,1,right,HG00118_realigned.bam,chr1_16712_16727
+245,96,614,9,2,2,right,HG00118_realigned.bam,chr1_16712_16727
+246,97,618,5,3,0,right,HG00118_realigned.bam,chr1_16712_16727
+247,98,617,6,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+248,99,622,1,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+249,100,617,6,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+250,101,621,2,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+251,102,616,4,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+252,103,617,3,2,0,right,HG00118_realigned.bam,chr1_16712_16727
+253,104,612,7,5,0,right,HG00118_realigned.bam,chr1_16712_16727
+254,105,612,6,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+255,106,611,7,1,1,right,HG00118_realigned.bam,chr1_16712_16727
+256,107,613,5,1,2,right,HG00118_realigned.bam,chr1_16712_16727
+257,108,614,2,1,2,right,HG00118_realigned.bam,chr1_16712_16727
+258,109,612,4,1,2,right,HG00118_realigned.bam,chr1_16712_16727
+259,110,611,5,4,0,right,HG00118_realigned.bam,chr1_16712_16727
+260,111,614,2,3,0,right,HG00118_realigned.bam,chr1_16712_16727
+261,112,611,5,1,0,right,HG00118_realigned.bam,chr1_16712_16727
+262,113,609,7,0,2,right,HG00118_realigned.bam,chr1_16712_16727
+263,114,614,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+264,115,612,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+265,116,607,5,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+266,117,606,6,2,3,right,HG00118_realigned.bam,chr1_16712_16727
+267,118,608,4,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+268,119,599,10,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+269,120,603,6,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+270,121,601,8,2,0,right,HG00118_realigned.bam,chr1_16712_16727
+271,122,601,4,2,0,right,HG00118_realigned.bam,chr1_16712_16727
+272,123,601,4,2,0,right,HG00118_realigned.bam,chr1_16712_16727
+273,124,598,5,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+274,125,597,4,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+275,126,597,3,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+276,127,591,8,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+277,128,596,2,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+278,129,594,3,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+279,130,594,3,0,2,right,HG00118_realigned.bam,chr1_16712_16727
+280,131,591,6,0,2,right,HG00118_realigned.bam,chr1_16712_16727
+281,132,595,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+282,133,595,1,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+283,134,595,1,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+284,135,592,4,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+285,136,592,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+286,137,592,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+287,138,591,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+288,139,590,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+289,140,587,4,0,2,right,HG00118_realigned.bam,chr1_16712_16727
+290,141,583,6,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+291,142,582,4,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+292,143,582,2,0,1,right,HG00118_realigned.bam,chr1_16712_16727
+293,144,581,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+294,145,581,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+295,146,578,5,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+296,147,580,3,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+297,148,580,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+298,149,577,2,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+299,150,573,0,0,0,right,HG00118_realigned.bam,chr1_16712_16727
+0,-1,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+1,-2,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+2,-3,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+3,-4,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+4,-5,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+5,-6,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+6,-7,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+7,-8,206,8,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+8,-9,210,4,1,0,left,HG00118_realigned.bam,chr1_30867_30891
+9,-10,213,1,1,0,left,HG00118_realigned.bam,chr1_30867_30891
+10,-11,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+11,-12,211,3,1,0,left,HG00118_realigned.bam,chr1_30867_30891
+12,-13,210,4,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+13,-14,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+14,-15,212,2,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+15,-16,208,6,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+16,-17,211,3,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+17,-18,210,4,0,2,left,HG00118_realigned.bam,chr1_30867_30891
+18,-19,213,1,0,4,left,HG00118_realigned.bam,chr1_30867_30891
+19,-20,212,2,1,1,left,HG00118_realigned.bam,chr1_30867_30891
+20,-21,213,1,2,1,left,HG00118_realigned.bam,chr1_30867_30891
+21,-22,214,0,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+22,-23,211,3,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+23,-24,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+24,-25,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+25,-26,211,3,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+26,-27,210,4,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+27,-28,213,1,0,3,left,HG00118_realigned.bam,chr1_30867_30891
+28,-29,213,1,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+29,-30,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+30,-31,211,3,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+31,-32,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+32,-33,210,4,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+33,-34,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+34,-35,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+35,-36,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+36,-37,210,4,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+37,-38,213,1,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+38,-39,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+39,-40,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+40,-41,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+41,-42,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+42,-43,210,4,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+43,-44,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+44,-45,209,5,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+45,-46,210,4,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+46,-47,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+47,-48,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+48,-49,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+49,-50,213,1,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+50,-51,212,2,0,2,left,HG00118_realigned.bam,chr1_30867_30891
+51,-52,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+52,-53,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+53,-54,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+54,-55,211,3,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+55,-56,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+56,-57,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+57,-58,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+58,-59,211,3,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+59,-60,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+60,-61,211,3,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+61,-62,211,3,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+62,-63,214,0,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+63,-64,211,3,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+64,-65,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+65,-66,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+66,-67,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+67,-68,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+68,-69,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+69,-70,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+70,-71,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+71,-72,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+72,-73,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+73,-74,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+74,-75,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+75,-76,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+76,-77,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+77,-78,211,3,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+78,-79,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+79,-80,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+80,-81,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+81,-82,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+82,-83,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+83,-84,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+84,-85,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+85,-86,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+86,-87,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+87,-88,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+88,-89,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+89,-90,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+90,-91,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+91,-92,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+92,-93,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+93,-94,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+94,-95,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+95,-96,212,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+96,-97,214,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+97,-98,213,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+98,-99,213,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+99,-100,213,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+100,-101,212,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+101,-102,211,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+102,-103,213,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+103,-104,211,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+104,-105,210,3,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+105,-106,213,0,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+106,-107,210,3,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+107,-108,212,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+108,-109,213,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+109,-110,211,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+110,-111,212,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+111,-112,211,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+112,-113,212,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+113,-114,209,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+114,-115,208,3,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+115,-116,210,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+116,-117,210,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+117,-118,210,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+118,-119,208,3,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+119,-120,211,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+120,-121,210,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+121,-122,209,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+122,-123,211,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+123,-124,206,5,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+124,-125,211,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+125,-126,210,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+126,-127,211,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+127,-128,211,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+128,-129,210,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+129,-130,207,2,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+130,-131,208,1,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+131,-132,207,2,0,1,left,HG00118_realigned.bam,chr1_30867_30891
+132,-133,208,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+133,-134,206,3,1,0,left,HG00118_realigned.bam,chr1_30867_30891
+134,-135,208,1,2,0,left,HG00118_realigned.bam,chr1_30867_30891
+135,-136,209,0,2,0,left,HG00118_realigned.bam,chr1_30867_30891
+136,-137,206,2,1,0,left,HG00118_realigned.bam,chr1_30867_30891
+137,-138,204,3,2,0,left,HG00118_realigned.bam,chr1_30867_30891
+138,-139,206,1,2,0,left,HG00118_realigned.bam,chr1_30867_30891
+139,-140,204,3,2,0,left,HG00118_realigned.bam,chr1_30867_30891
+140,-141,204,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+141,-142,203,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+142,-143,201,2,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+143,-144,203,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+144,-145,203,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+145,-146,203,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+146,-147,199,4,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+147,-148,201,1,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+148,-149,202,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+149,-150,196,0,0,0,left,HG00118_realigned.bam,chr1_30867_30891
+150,1,151,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+151,2,149,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+152,3,150,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+153,4,150,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+154,5,150,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+155,6,150,1,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+156,7,150,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+157,8,150,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+158,9,148,3,0,2,right,HG00118_realigned.bam,chr1_30867_30891
+159,10,148,3,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+160,11,151,0,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+161,12,151,0,0,2,right,HG00118_realigned.bam,chr1_30867_30891
+162,13,148,3,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+163,14,150,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+164,15,150,1,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+165,16,150,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+166,17,149,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+167,18,147,3,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+168,19,147,3,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+169,20,148,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+170,21,148,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+171,22,148,1,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+172,23,146,3,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+173,24,149,0,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+174,25,148,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+175,26,147,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+176,27,147,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+177,28,148,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+178,29,149,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+179,30,148,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+180,31,148,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+181,32,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+182,33,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+183,34,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+184,35,147,1,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+185,36,147,1,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+186,37,147,1,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+187,38,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+188,39,147,1,1,0,right,HG00118_realigned.bam,chr1_30867_30891
+189,40,146,2,2,0,right,HG00118_realigned.bam,chr1_30867_30891
+190,41,147,1,1,1,right,HG00118_realigned.bam,chr1_30867_30891
+191,42,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+192,43,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+193,44,148,0,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+194,45,148,0,1,1,right,HG00118_realigned.bam,chr1_30867_30891
+195,46,146,2,2,1,right,HG00118_realigned.bam,chr1_30867_30891
+196,47,145,3,1,1,right,HG00118_realigned.bam,chr1_30867_30891
+197,48,145,3,1,0,right,HG00118_realigned.bam,chr1_30867_30891
+198,49,146,2,1,0,right,HG00118_realigned.bam,chr1_30867_30891
+199,50,145,3,1,0,right,HG00118_realigned.bam,chr1_30867_30891
+200,51,144,4,1,0,right,HG00118_realigned.bam,chr1_30867_30891
+201,52,147,1,1,0,right,HG00118_realigned.bam,chr1_30867_30891
+202,53,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+203,54,147,1,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+204,55,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+205,56,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+206,57,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+207,58,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+208,59,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+209,60,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+210,61,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+211,62,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+212,63,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+213,64,145,3,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+214,65,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+215,66,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+216,67,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+217,68,148,0,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+218,69,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+219,70,148,0,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+220,71,145,3,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+221,72,146,2,0,2,right,HG00118_realigned.bam,chr1_30867_30891
+222,73,147,1,0,2,right,HG00118_realigned.bam,chr1_30867_30891
+223,74,146,2,0,2,right,HG00118_realigned.bam,chr1_30867_30891
+224,75,147,1,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+225,76,144,4,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+226,77,144,4,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+227,78,145,3,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+228,79,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+229,80,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+230,81,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+231,82,143,5,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+232,83,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+233,84,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+234,85,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+235,86,144,4,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+236,87,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+237,88,145,3,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+238,89,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+239,90,144,4,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+240,91,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+241,92,145,3,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+242,93,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+243,94,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+244,95,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+245,96,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+246,97,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+247,98,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+248,99,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+249,100,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+250,101,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+251,102,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+252,103,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+253,104,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+254,105,145,3,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+255,106,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+256,107,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+257,108,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+258,109,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+259,110,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+260,111,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+261,112,147,1,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+262,113,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+263,114,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+264,115,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+265,116,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+266,117,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+267,118,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+268,119,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+269,120,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+270,121,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+271,122,147,1,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+272,123,146,2,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+273,124,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+274,125,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+275,126,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+276,127,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+277,128,146,2,0,1,right,HG00118_realigned.bam,chr1_30867_30891
+278,129,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+279,130,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+280,131,148,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+281,132,146,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+282,133,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+283,134,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+284,135,147,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+285,136,146,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+286,137,145,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+287,138,147,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+288,139,145,2,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+289,140,147,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+290,141,146,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+291,142,146,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+292,143,147,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+293,144,146,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+294,145,146,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+295,146,146,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+296,147,146,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+297,148,146,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+298,149,146,1,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+299,150,145,0,0,0,right,HG00118_realigned.bam,chr1_30867_30891
+0,-1,142,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+1,-2,142,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+2,-3,142,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+3,-4,142,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+4,-5,142,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+5,-6,142,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+6,-7,142,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+7,-8,142,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+8,-9,142,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+9,-10,141,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+10,-11,140,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+11,-12,140,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+12,-13,139,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+13,-14,139,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+14,-15,139,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+15,-16,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+16,-17,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+17,-18,136,2,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+18,-19,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+19,-20,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+20,-21,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+21,-22,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+22,-23,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+23,-24,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+24,-25,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+25,-26,137,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+26,-27,137,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+27,-28,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+28,-29,137,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+29,-30,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+30,-31,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+31,-32,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+32,-33,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+33,-34,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+34,-35,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+35,-36,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+36,-37,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+37,-38,138,0,0,1,left,HG00118_realigned.bam,chr1_31555_31570
+38,-39,138,0,0,1,left,HG00118_realigned.bam,chr1_31555_31570
+39,-40,138,0,0,2,left,HG00118_realigned.bam,chr1_31555_31570
+40,-41,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+41,-42,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+42,-43,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+43,-44,138,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+44,-45,136,2,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+45,-46,137,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+46,-47,137,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+47,-48,137,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+48,-49,136,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+49,-50,136,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+50,-51,134,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+51,-52,134,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+52,-53,134,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+53,-54,134,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+54,-55,133,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+55,-56,133,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+56,-57,133,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+57,-58,133,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+58,-59,132,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+59,-60,132,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+60,-61,131,2,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+61,-62,133,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+62,-63,133,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+63,-64,132,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+64,-65,131,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+65,-66,131,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+66,-67,130,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+67,-68,131,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+68,-69,128,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+69,-70,129,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+70,-71,129,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+71,-72,129,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+72,-73,128,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+73,-74,127,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+74,-75,128,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+75,-76,128,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+76,-77,127,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+77,-78,128,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+78,-79,128,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+79,-80,128,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+80,-81,128,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+81,-82,128,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+82,-83,127,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+83,-84,127,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+84,-85,126,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+85,-86,125,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+86,-87,124,2,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+87,-88,126,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+88,-89,126,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+89,-90,125,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+90,-91,125,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+91,-92,126,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+92,-93,126,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+93,-94,126,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+94,-95,124,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+95,-96,124,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+96,-97,123,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+97,-98,123,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+98,-99,123,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+99,-100,120,3,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+100,-101,121,2,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+101,-102,123,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+102,-103,123,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+103,-104,122,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+104,-105,123,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+105,-106,123,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+106,-107,122,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+107,-108,122,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+108,-109,122,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+109,-110,122,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+110,-111,120,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+111,-112,120,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+112,-113,119,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+113,-114,119,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+114,-115,119,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+115,-116,119,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+116,-117,119,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+117,-118,119,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+118,-119,119,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+119,-120,118,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+120,-121,118,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+121,-122,118,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+122,-123,117,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+123,-124,117,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+124,-125,116,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+125,-126,117,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+126,-127,117,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+127,-128,116,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+128,-129,117,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+129,-130,117,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+130,-131,117,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+131,-132,117,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+132,-133,117,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+133,-134,117,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+134,-135,117,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+135,-136,116,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+136,-137,116,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+137,-138,115,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+138,-139,116,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+139,-140,116,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+140,-141,116,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+141,-142,116,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+142,-143,115,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+143,-144,115,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+144,-145,113,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+145,-146,113,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+146,-147,112,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+147,-148,110,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+148,-149,109,1,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+149,-150,108,0,0,0,left,HG00118_realigned.bam,chr1_31555_31570
+150,1,205,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+151,2,205,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+152,3,204,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+153,4,204,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+154,5,202,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+155,6,204,1,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+156,7,203,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+157,8,204,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+158,9,203,2,0,2,right,HG00118_realigned.bam,chr1_31555_31570
+159,10,202,3,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+160,11,203,2,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+161,12,205,0,0,2,right,HG00118_realigned.bam,chr1_31555_31570
+162,13,203,2,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+163,14,203,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+164,15,204,0,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+165,16,202,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+166,17,201,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+167,18,201,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+168,19,201,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+169,20,200,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+170,21,202,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+171,22,202,1,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+172,23,201,2,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+173,24,202,0,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+174,25,200,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+175,26,199,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+176,27,198,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+177,28,199,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+178,29,200,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+179,30,197,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+180,31,197,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+181,32,197,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+182,33,197,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+183,34,198,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+184,35,198,1,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+185,36,198,1,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+186,37,197,2,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+187,38,198,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+188,39,197,1,1,0,right,HG00118_realigned.bam,chr1_31555_31570
+189,40,196,2,2,0,right,HG00118_realigned.bam,chr1_31555_31570
+190,41,195,2,1,1,right,HG00118_realigned.bam,chr1_31555_31570
+191,42,195,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+192,43,196,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+193,44,196,0,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+194,45,196,0,1,1,right,HG00118_realigned.bam,chr1_31555_31570
+195,46,194,2,2,1,right,HG00118_realigned.bam,chr1_31555_31570
+196,47,193,3,1,1,right,HG00118_realigned.bam,chr1_31555_31570
+197,48,194,2,1,0,right,HG00118_realigned.bam,chr1_31555_31570
+198,49,194,2,1,0,right,HG00118_realigned.bam,chr1_31555_31570
+199,50,194,2,1,0,right,HG00118_realigned.bam,chr1_31555_31570
+200,51,195,1,1,0,right,HG00118_realigned.bam,chr1_31555_31570
+201,52,194,1,1,0,right,HG00118_realigned.bam,chr1_31555_31570
+202,53,194,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+203,54,194,0,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+204,55,194,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+205,56,193,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+206,57,194,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+207,58,192,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+208,59,193,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+209,60,193,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+210,61,194,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+211,62,193,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+212,63,194,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+213,64,192,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+214,65,193,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+215,66,191,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+216,67,192,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+217,68,190,1,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+218,69,188,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+219,70,190,1,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+220,71,187,3,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+221,72,187,2,0,2,right,HG00118_realigned.bam,chr1_31555_31570
+222,73,186,3,0,2,right,HG00118_realigned.bam,chr1_31555_31570
+223,74,187,2,0,2,right,HG00118_realigned.bam,chr1_31555_31570
+224,75,187,2,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+225,76,184,5,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+226,77,186,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+227,78,186,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+228,79,188,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+229,80,186,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+230,81,186,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+231,82,183,5,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+232,83,186,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+233,84,187,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+234,85,187,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+235,86,183,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+236,87,186,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+237,88,182,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+238,89,184,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+239,90,182,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+240,91,185,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+241,92,183,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+242,93,183,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+243,94,183,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+244,95,181,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+245,96,181,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+246,97,184,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+247,98,183,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+248,99,182,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+249,100,182,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+250,101,182,2,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+251,102,182,2,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+252,103,180,4,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+253,104,182,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+254,105,181,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+255,106,183,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+256,107,182,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+257,108,181,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+258,109,183,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+259,110,181,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+260,111,183,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+261,112,183,1,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+262,113,182,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+263,114,182,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+264,115,183,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+265,116,182,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+266,117,182,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+267,118,182,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+268,119,183,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+269,120,181,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+270,121,181,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+271,122,183,0,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+272,123,178,5,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+273,124,180,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+274,125,181,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+275,126,179,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+276,127,179,1,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+277,128,177,3,0,1,right,HG00118_realigned.bam,chr1_31555_31570
+278,129,180,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+279,130,178,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+280,131,179,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+281,132,178,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+282,133,179,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+283,134,179,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+284,135,179,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+285,136,178,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+286,137,175,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+287,138,178,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+288,139,176,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+289,140,178,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+290,141,177,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+291,142,177,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+292,143,177,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+293,144,176,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+294,145,178,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+295,146,175,2,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+296,147,173,3,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+297,148,174,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+298,149,174,1,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+299,150,173,0,0,0,right,HG00118_realigned.bam,chr1_31555_31570
+0,-1,299,0,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+1,-2,298,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+2,-3,296,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+3,-4,296,3,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+4,-5,297,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+5,-6,297,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+6,-7,293,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+7,-8,296,0,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+8,-9,294,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+9,-10,291,4,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+10,-11,292,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+11,-12,291,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+12,-13,292,2,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+13,-14,294,0,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+14,-15,292,2,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+15,-16,292,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+16,-17,292,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+17,-18,292,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+18,-19,289,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+19,-20,289,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+20,-21,286,5,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+21,-22,286,5,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+22,-23,286,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+23,-24,285,4,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+24,-25,288,0,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+25,-26,286,2,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+26,-27,283,4,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+27,-28,283,3,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+28,-29,281,4,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+29,-30,283,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+30,-31,281,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+31,-32,282,2,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+32,-33,282,1,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+33,-34,279,4,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+34,-35,281,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+35,-36,280,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+36,-37,282,0,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+37,-38,279,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+38,-39,279,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+39,-40,279,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+40,-41,281,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+41,-42,280,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+42,-43,279,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+43,-44,279,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+44,-45,278,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+45,-46,279,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+46,-47,280,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+47,-48,278,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+48,-49,275,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+49,-50,276,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+50,-51,277,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+51,-52,275,3,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+52,-53,278,0,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+53,-54,276,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+54,-55,275,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+55,-56,276,2,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+56,-57,277,0,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+57,-58,276,1,0,2,left,HG00118_realigned.bam,chr1_44835_44867
+58,-59,275,2,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+59,-60,276,1,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+60,-61,276,1,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+61,-62,276,0,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+62,-63,271,3,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+63,-64,271,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+64,-65,271,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+65,-66,271,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+66,-67,268,4,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+67,-68,271,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+68,-69,271,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+69,-70,266,6,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+70,-71,270,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+71,-72,269,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+72,-73,271,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+73,-74,272,0,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+74,-75,269,3,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+75,-76,269,3,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+76,-77,269,3,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+77,-78,271,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+78,-79,270,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+79,-80,271,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+80,-81,271,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+81,-82,272,0,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+82,-83,271,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+83,-84,271,0,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+84,-85,267,4,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+85,-86,268,3,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+86,-87,266,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+87,-88,267,1,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+88,-89,268,0,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+89,-90,264,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+90,-91,264,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+91,-92,265,1,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+92,-93,265,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+93,-94,266,0,0,2,left,HG00118_realigned.bam,chr1_44835_44867
+94,-95,262,4,0,2,left,HG00118_realigned.bam,chr1_44835_44867
+95,-96,264,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+96,-97,263,1,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+97,-98,262,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+98,-99,262,2,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+99,-100,259,1,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+100,-101,260,0,1,1,left,HG00118_realigned.bam,chr1_44835_44867
+101,-102,259,1,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+102,-103,255,2,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+103,-104,254,0,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+104,-105,252,1,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+105,-106,251,2,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+106,-107,252,1,0,2,left,HG00118_realigned.bam,chr1_44835_44867
+107,-108,252,1,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+108,-109,249,3,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+109,-110,247,4,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+110,-111,250,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+111,-112,250,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+112,-113,248,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+113,-114,248,1,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+114,-115,246,3,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+115,-116,245,4,1,1,left,HG00118_realigned.bam,chr1_44835_44867
+116,-117,247,1,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+117,-118,247,1,0,2,left,HG00118_realigned.bam,chr1_44835_44867
+118,-119,245,3,0,2,left,HG00118_realigned.bam,chr1_44835_44867
+119,-120,245,3,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+120,-121,246,2,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+121,-122,247,1,0,2,left,HG00118_realigned.bam,chr1_44835_44867
+122,-123,246,1,0,2,left,HG00118_realigned.bam,chr1_44835_44867
+123,-124,245,1,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+124,-125,246,0,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+125,-126,244,2,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+126,-127,242,4,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+127,-128,241,5,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+128,-129,244,0,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+129,-130,242,2,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+130,-131,242,2,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+131,-132,241,3,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+132,-133,244,0,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+133,-134,244,0,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+134,-135,244,0,0,1,left,HG00118_realigned.bam,chr1_44835_44867
+135,-136,243,1,1,1,left,HG00118_realigned.bam,chr1_44835_44867
+136,-137,242,0,1,1,left,HG00118_realigned.bam,chr1_44835_44867
+137,-138,240,2,1,2,left,HG00118_realigned.bam,chr1_44835_44867
+138,-139,241,1,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+139,-140,239,3,1,1,left,HG00118_realigned.bam,chr1_44835_44867
+140,-141,241,1,1,1,left,HG00118_realigned.bam,chr1_44835_44867
+141,-142,241,1,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+142,-143,240,1,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+143,-144,239,1,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+144,-145,238,2,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+145,-146,239,1,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+146,-147,238,2,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+147,-148,238,1,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+148,-149,236,2,1,0,left,HG00118_realigned.bam,chr1_44835_44867
+149,-150,232,0,0,0,left,HG00118_realigned.bam,chr1_44835_44867
+150,1,250,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+151,2,250,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+152,3,248,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+153,4,248,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+154,5,249,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+155,6,246,2,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+156,7,247,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+157,8,247,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+158,9,247,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+159,10,246,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+160,11,244,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+161,12,244,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+162,13,243,2,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+163,14,245,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+164,15,244,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+165,16,240,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+166,17,238,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+167,18,238,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+168,19,237,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+169,20,233,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+170,21,234,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+171,22,233,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+172,23,233,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+173,24,232,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+174,25,232,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+175,26,232,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+176,27,231,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+177,28,231,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+178,29,232,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+179,30,230,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+180,31,229,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+181,32,228,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+182,33,226,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+183,34,227,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+184,35,226,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+185,36,225,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+186,37,225,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+187,38,226,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+188,39,226,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+189,40,224,2,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+190,41,225,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+191,42,226,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+192,43,225,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+193,44,226,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+194,45,226,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+195,46,225,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+196,47,226,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+197,48,226,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+198,49,225,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+199,50,226,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+200,51,225,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+201,52,226,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+202,53,226,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+203,54,224,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+204,55,224,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+205,56,223,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+206,57,221,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+207,58,221,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+208,59,220,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+209,60,220,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+210,61,220,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+211,62,220,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+212,63,219,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+213,64,219,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+214,65,219,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+215,66,220,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+216,67,219,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+217,68,220,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+218,69,220,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+219,70,218,2,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+220,71,218,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+221,72,216,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+222,73,215,2,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+223,74,217,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+224,75,217,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+225,76,216,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+226,77,215,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+227,78,215,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+228,79,215,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+229,80,215,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+230,81,216,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+231,82,215,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+232,83,215,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+233,84,216,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+234,85,212,3,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+235,86,214,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+236,87,214,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+237,88,214,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+238,89,213,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+239,90,213,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+240,91,212,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+241,92,211,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+242,93,210,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+243,94,209,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+244,95,208,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+245,96,208,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+246,97,206,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+247,98,207,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+248,99,207,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+249,100,207,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+250,101,204,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+251,102,204,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+252,103,204,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+253,104,204,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+254,105,203,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+255,106,203,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+256,107,204,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+257,108,202,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+258,109,203,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+259,110,200,2,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+260,111,201,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+261,112,202,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+262,113,198,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+263,114,198,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+264,115,199,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+265,116,199,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+266,117,198,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+267,118,198,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+268,119,198,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+269,120,197,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+270,121,197,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+271,122,197,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+272,123,197,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+273,124,197,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+274,125,196,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+275,126,196,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+276,127,195,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+277,128,194,2,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+278,129,196,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+279,130,195,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+280,131,195,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+281,132,194,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+282,133,194,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+283,134,191,2,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+284,135,193,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+285,136,192,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+286,137,190,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+287,138,190,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+288,139,191,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+289,140,191,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+290,141,190,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+291,142,191,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+292,143,190,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+293,144,190,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+294,145,188,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+295,146,187,1,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+296,147,188,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+297,148,187,1,1,0,right,HG00118_realigned.bam,chr1_44835_44867
+298,149,188,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+299,150,187,0,0,0,right,HG00118_realigned.bam,chr1_44835_44867
+0,-1,288,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+1,-2,288,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+2,-3,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+3,-4,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+4,-5,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+5,-6,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+6,-7,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+7,-8,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+8,-9,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+9,-10,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+10,-11,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+11,-12,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+12,-13,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+13,-14,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+14,-15,285,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+15,-16,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+16,-17,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+17,-18,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+18,-19,285,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+19,-20,285,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+20,-21,285,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+21,-22,285,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+22,-23,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+23,-24,285,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+24,-25,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+25,-26,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+26,-27,285,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+27,-28,285,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+28,-29,286,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+29,-30,282,3,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+30,-31,285,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+31,-32,284,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+32,-33,284,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+33,-34,283,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+34,-35,284,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+35,-36,283,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+36,-37,283,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+37,-38,283,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+38,-39,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+39,-40,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+40,-41,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+41,-42,281,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+42,-43,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+43,-44,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+44,-45,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+45,-46,280,2,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+46,-47,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+47,-48,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+48,-49,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+49,-50,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+50,-51,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+51,-52,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+52,-53,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+53,-54,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+54,-55,282,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+55,-56,281,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+56,-57,280,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+57,-58,278,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+58,-59,278,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+59,-60,276,2,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+60,-61,278,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+61,-62,276,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+62,-63,276,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+63,-64,276,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+64,-65,275,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+65,-66,276,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+66,-67,276,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+67,-68,276,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+68,-69,276,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+69,-70,275,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+70,-71,274,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+71,-72,275,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+72,-73,274,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+73,-74,275,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+74,-75,275,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+75,-76,274,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+76,-77,273,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+77,-78,273,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+78,-79,274,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+79,-80,273,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+80,-81,272,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+81,-82,271,2,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+82,-83,273,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+83,-84,272,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+84,-85,273,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+85,-86,271,2,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+86,-87,273,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+87,-88,272,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+88,-89,271,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+89,-90,269,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+90,-91,268,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+91,-92,269,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+92,-93,269,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+93,-94,269,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+94,-95,269,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+95,-96,268,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+96,-97,269,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+97,-98,269,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+98,-99,265,4,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+99,-100,268,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+100,-101,269,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+101,-102,268,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+102,-103,267,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+103,-104,267,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+104,-105,268,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+105,-106,268,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+106,-107,268,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+107,-108,268,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+108,-109,267,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+109,-110,268,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+110,-111,266,2,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+111,-112,268,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+112,-113,268,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+113,-114,268,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+114,-115,267,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+115,-116,266,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+116,-117,265,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+117,-118,266,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+118,-119,265,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+119,-120,265,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+120,-121,263,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+121,-122,264,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+122,-123,262,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+123,-124,262,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+124,-125,262,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+125,-126,261,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+126,-127,261,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+127,-128,260,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+128,-129,260,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+129,-130,260,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+130,-131,259,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+131,-132,259,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+132,-133,259,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+133,-134,259,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+134,-135,259,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+135,-136,257,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+136,-137,258,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+137,-138,257,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+138,-139,257,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+139,-140,257,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+140,-141,256,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+141,-142,257,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+142,-143,254,2,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+143,-144,254,1,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+144,-145,255,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+145,-146,255,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+146,-147,255,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+147,-148,254,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+148,-149,254,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+149,-150,251,0,0,0,left,HG00118_realigned.bam,chr1_50481_50513
+150,1,278,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+151,2,278,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+152,3,278,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+153,4,278,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+154,5,278,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+155,6,276,2,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+156,7,277,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+157,8,277,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+158,9,275,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+159,10,276,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+160,11,276,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+161,12,276,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+162,13,274,2,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+163,14,276,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+164,15,276,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+165,16,276,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+166,17,276,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+167,18,275,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+168,19,276,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+169,20,275,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+170,21,274,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+171,22,275,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+172,23,274,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+173,24,275,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+174,25,275,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+175,26,274,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+176,27,274,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+177,28,275,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+178,29,275,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+179,30,274,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+180,31,274,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+181,32,273,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+182,33,271,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+183,34,271,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+184,35,270,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+185,36,271,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+186,37,271,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+187,38,271,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+188,39,271,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+189,40,271,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+190,41,271,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+191,42,270,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+192,43,270,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+193,44,270,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+194,45,270,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+195,46,269,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+196,47,269,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+197,48,269,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+198,49,268,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+199,50,268,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+200,51,268,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+201,52,266,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+202,53,266,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+203,54,267,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+204,55,267,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+205,56,267,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+206,57,267,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+207,58,266,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+208,59,266,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+209,60,266,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+210,61,265,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+211,62,266,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+212,63,266,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+213,64,263,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+214,65,262,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+215,66,261,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+216,67,262,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+217,68,262,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+218,69,261,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+219,70,262,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+220,71,261,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+221,72,262,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+222,73,261,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+223,74,260,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+224,75,261,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+225,76,261,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+226,77,260,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+227,78,261,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+228,79,261,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+229,80,261,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+230,81,261,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+231,82,261,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+232,83,261,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+233,84,261,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+234,85,261,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+235,86,260,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+236,87,260,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+237,88,259,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+238,89,259,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+239,90,259,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+240,91,259,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+241,92,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+242,93,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+243,94,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+244,95,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+245,96,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+246,97,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+247,98,257,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+248,99,257,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+249,100,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+250,101,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+251,102,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+252,103,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+253,104,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+254,105,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+255,106,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+256,107,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+257,108,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+258,109,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+259,110,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+260,111,257,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+261,112,258,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+262,113,256,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+263,114,256,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+264,115,255,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+265,116,255,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+266,117,255,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+267,118,256,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+268,119,256,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+269,120,256,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+270,121,256,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+271,122,255,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+272,123,255,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+273,124,254,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+274,125,255,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+275,126,255,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+276,127,254,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+277,128,254,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+278,129,254,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+279,130,253,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+280,131,253,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+281,132,253,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+282,133,252,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+283,134,252,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+284,135,252,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+285,136,252,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+286,137,252,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+287,138,252,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+288,139,251,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+289,140,250,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+290,141,250,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+291,142,250,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+292,143,250,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+293,144,249,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+294,145,247,2,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+295,146,249,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+296,147,248,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+297,148,246,1,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+298,149,247,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513
+299,150,245,0,0,0,right,HG00118_realigned.bam,chr1_50481_50513

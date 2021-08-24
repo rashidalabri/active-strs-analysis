@@ -2,10 +2,11 @@ import re
 import pandas as pd
 import pysam
 
+extract_nodes_p = re.compile('(\d+)\[((?:\d+[A-Z])+)\]', re.IGNORECASE)
+extract_operations_p = re.compile('(\d+)([A-Z])', re.IGNORECASE)
+
 
 class LocusFlankData(object):
-    extract_nodes_p = re.compile('(\d+)\[((?:\d+[A-Z])+)\]', re.IGNORECASE)
-    extract_operations_p = re.compile('(\d+)([A-Z])', re.IGNORECASE)
 
     def __init__(self) -> None:
         self.flank_data = {
@@ -23,7 +24,7 @@ class LocusFlankData(object):
             self.add(flank, position + i, operation)
 
     def parse_graph_cigar(self, cigar_string):
-        nodes = self.extract_nodes_p.findall(cigar_string)
+        nodes = extract_nodes_p.findall(cigar_string)
         nodes = [(int(node_id), cigar_string) for node_id, cigar_string in nodes]
         
         for node in nodes:
@@ -34,7 +35,7 @@ class LocusFlankData(object):
                 self.parse_cigar_string('right', cigar_string)
     
     def parse_cigar_string(self, flank, cigar_string) -> None:
-        operations = self.extract_operations_p.findall(cigar_string)
+        operations = extract_operations_p.findall(cigar_string)
 
         if flank == 'left':
             operations.reverse()
@@ -65,11 +66,11 @@ class LocusFlankData(object):
         return pd.concat(dfs, ignore_index=True)
 
 
-bam_file_path = snakemake.input['bam']
-out_file_path = snakemake.output[0]
+# bam_file_path = snakemake.input['bam']
+# out_file_path = snakemake.output[0]
 
-# bam_file_path = 'resources/realigned_bam/active/HG00118/HG00118_realigned.bam'
-# out_file_path = 'mutations.tsv'
+bam_file_path = 'resources/realigned_bam/active/HG00118/HG00118_realigned.bam'
+out_file_path = 'mutations.tsv'
 
 
 loci_flank_data = {}
@@ -81,14 +82,24 @@ for read in bam.fetch(until_eof=True):
     locus_flank_data = loci_flank_data[locus_id]
     locus_flank_data.parse_graph_cigar(cigar_string)
 
-dfs = []
-for locus_id in loci_flank_data:
+print('Done reading')
+
+
+loci_ids = list(loci_flank_data.keys())
+
+if len(loci_ids) > 0:
+    locus_id = loci_ids[0]
     df = loci_flank_data[locus_id].to_df()
-    # df['sample'] = 'HG00118_realigned.bam'
-    df['sample'] = snakemake.wildcards['sample']
+    df['sample'] = 'HG00118_realigned.bam'
+    # df['sample'] = snakemake.wildcards['sample']
     df['locus_id'] = locus_id
-    dfs.append(df)
+    df.to_csv(out_file_path, sep='\t', index=False)
+    del loci_flank_data[locus_id]
 
-
-concated = pd.concat(dfs, ignore_index=True)
-concated.to_csv(out_file_path, sep='\t', index=False)
+for locus_id in loci_ids[1:]:
+    df = loci_flank_data[locus_id].to_df()
+    df['sample'] = 'HG00118_realigned.bam'
+    # df['sample'] = snakemake.wildcards['sample']
+    df['locus_id'] = locus_id
+    df.to_csv(out_file_path, mode='a', header=False)
+    del loci_flank_data[locus_id]
