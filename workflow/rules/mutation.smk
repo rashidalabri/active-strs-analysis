@@ -4,8 +4,8 @@ rule parse_sample_mismatches_target:
 
 rule parse_sample_mismatches:
     input:
-        bam="resources/realigned_bam/{variant_catalog}/{sample}_realigned.bam",
-        bai="resources/realigned_bam/{variant_catalog}/{sample}_realigned.bam.bai"
+        bam="resources/realigned_bam/{variant_catalog}/{sample}_realigned.sorted.bam",
+        bai="resources/realigned_bam/{variant_catalog}/{sample}_realigned.sorted.bam.bai"
     output:
         "resources/mutations/{variant_catalog}/{sample}.tsv"
     conda:
