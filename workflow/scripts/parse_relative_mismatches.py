@@ -65,11 +65,11 @@ class LocusFlankData(object):
         return pd.concat(dfs, ignore_index=True)
 
 
-# bam_file_path = snakemake.input['bam']
-# out_file_path = snakemake.output[0]
+bam_file_path = snakemake.input['bam']
+out_file_path = snakemake.output[0]
 
-bam_file_path = 'resources/realigned_bam/active/HG00118/HG00118_realigned.bam'
-out_file_path = 'mutations.tsv'
+# bam_file_path = 'resources/realigned_bam/active/HG00118/HG00118_realigned.bam'
+# out_file_path = 'mutations.tsv'
 
 
 loci_flank_data = {}
@@ -84,8 +84,8 @@ for read in bam.fetch(until_eof=True):
 dfs = []
 for locus_id in loci_flank_data:
     df = loci_flank_data[locus_id].to_df()
-    df['sample'] = 'HG00118_realigned.bam'
-    # df['sample'] = snakemake.wildcards['sample']
+    # df['sample'] = 'HG00118_realigned.bam'
+    df['sample'] = snakemake.wildcards['sample']
     df['locus_id'] = locus_id
     dfs.append(df)
 

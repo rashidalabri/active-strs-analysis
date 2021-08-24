@@ -1,6 +1,10 @@
+from os import listdir
+from os.path import join, isfile
 import pandas as pd
 
-SAMPLES = pd.read_table(config["samples"]).set_index("Sample", drop=False)
+REALIGNED_BAM_PATH = '../../resources/realigned_bam'
+SAMPLES = [f[:-21] for f in listdir(REALIGNED_BAM_PATH) if isfile(join(REALIGNED_BAM_PATH, f)) and f.endswith('_realigned.sorted.bam')]
+
 # CATALOGS = config['catalogs']
 CATALOGS = ['ActiveSTRs', 'TRF', 'InactiveSTRs']
 
@@ -24,5 +28,3 @@ def get_histone_pdf_file_names(wildcards):
         name = "results/histone/{}.pdf".format(i)
         names.append(name)
     return names
-
-

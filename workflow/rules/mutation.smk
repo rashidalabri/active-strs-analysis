@@ -1,7 +1,6 @@
 rule parse_sample_mismatches_target:
     input:
-        expand("resources/mutations/{variant_catalog}/{sample}.tsv", sample=SAMPLES.index, variant_catalog=['active'])
-
+        expand("resources/mutations/{variant_catalog}/{sample}.tsv", sample=SAMPLES, variant_catalog=["ActiveSTRs"])
 
 rule parse_sample_mismatches:
     input:
