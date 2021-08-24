@@ -1,6 +1,8 @@
 configfile: "config/config.yaml"
 
+include: "rules/common.smk"
 include: "rules/catalogs.smk"
 include: "rules/general_chars.smk"
-include: "rules/genotype.smk"
+include: "rules/mutation.smk"
 include: "rules/regulation.smk"
+include: "rules/epigenetic.smk"

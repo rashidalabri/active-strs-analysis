@@ -22,19 +22,33 @@ rule distance_catalog_annotation:
     output:
         "resources/distance/{catalog}_{annotation}.bed"
     conda:
-        
+        "../envs/bedtools.yaml"
+    envmodules:
+        "bedtools/2.27.1"
     shell:
-        "bedtools closest -d -a {input.ann} -b {input.cat} > {output}"
+        "bedtools closest -D ref -a {input.ann} -b {input.cat} > {output}"
 
 rule distance_catalogs_ccre:
     input:
         expand("resources/distance/{catalog}_ccre.bed", catalog=config['catalogs'])
 
-# rule plot_distance_catalog_annotation:
-#     input:
-#         expand("resources/distance/{catalog}_{annotation}.bed", catalog=config['catalogs'])
-#     output:
-#         "results/regulation/boxplot_distance_closest_{annotation}.pdf"
+rule distance_catalogs_reftss:
+    input:
+        expand("resources/distance/{catalog}_reftss.bed", catalog=config['catalogs'])
+
+rule plot_distance_catalog_annotation:
+    input:
+        "resources/distance/{catalog}_{annotation}.bed",
+    output:
+        "results/distance/{catalog}_{annotation}.pdf"
+    conda:
+        "../envs/plot.yaml"
+    notebook:
+        "../notebooks/barplot_annot_distance.py.ipynb"
+
+rule plot_distance_reftss_annotation:
+    input:
+        expand("results/distance/{catalog}_reftss.pdf", catalog=config['catalogs'])
 
 rule intersect_catalogs:
     input:

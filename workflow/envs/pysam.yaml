@@ -1,0 +1,6 @@
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - pysam =0.16.0
+  - pandas =1.3.0

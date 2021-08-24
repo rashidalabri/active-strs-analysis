@@ -135,3 +135,4 @@ dmypy.json
 playground/
 resources/
 results/
+.vscode/

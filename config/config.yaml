@@ -45,3 +45,5 @@ annotation_urls:
   ccre: "https://api.wenglab.org/screen_v13/fdownloads/GRCh38-ccREs.bed"
 hg19_to_hg38_chain_url: "http://hgdownload.cse.ucsc.edu/goldenPath/hg19/liftOver/hg19ToHg38.over.chain.gz"
 reference_fasta_url: "https://hgdownload.cse.ucsc.edu/goldenpath/hg38/bigZips/latest/hg38.fa.gz"
+samples: config/50-samples.tsv
+encode_histone_file: config/encode/histone.txt
