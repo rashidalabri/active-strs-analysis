@@ -2,8 +2,7 @@ from os import listdir
 from os.path import join, isfile
 import pandas as pd
 
-REALIGNED_BAM_PATH = '../../resources/realigned_bam'
-SAMPLES = [f[:-21] for f in listdir(REALIGNED_BAM_PATH) if isfile(join(REALIGNED_BAM_PATH, f)) and f.endswith('_realigned.sorted.bam')]
+SAMPLES, = glob_wildcards("resources/realigned_bam/ActiveSTRs/{sample}_realigned.sorted.bam")
 
 # CATALOGS = config['catalogs']
 CATALOGS = ['ActiveSTRs', 'TRF', 'InactiveSTRs']
