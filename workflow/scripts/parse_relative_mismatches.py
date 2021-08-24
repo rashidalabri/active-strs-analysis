@@ -5,7 +5,6 @@ import pysam
 extract_nodes_p = re.compile('(\d+)\[((?:\d+[A-Z])+)\]', re.IGNORECASE)
 extract_operations_p = re.compile('(\d+)([A-Z])', re.IGNORECASE)
 
-
 class LocusFlankData(object):
 
     def __init__(self) -> None:
@@ -59,19 +58,20 @@ class LocusFlankData(object):
                 'insertions': [data[pos]['I'] for pos in data],
                 'deletions': [data[pos]['D'] for pos in data],
             })
-            df['flank'] = flank
+            # df['flank'] = flank
             if flank == 'left':
                 df['position'] *= -1
             dfs.append(df)
         return pd.concat(dfs, ignore_index=True)
 
 
-# bam_file_path = snakemake.input['bam']
-# out_file_path = snakemake.output[0]
+bam_file_path = snakemake.input['bam']
+out_file_path = snakemake.output[0]
+sample = snakemake.wildcards['sample']
 
-bam_file_path = 'resources/realigned_bam/active/HG00118/HG00118_realigned.bam'
-out_file_path = 'mutations.tsv'
-
+# bam_file_path = 'resources/realigned_bam/active/HG00118/HG00118_realigned.bam'
+# out_file_path = 'mutations.h5'
+# sample = 'HG00118'
 
 loci_flank_data = {}
 bam = pysam.AlignmentFile(bam_file_path)
@@ -82,24 +82,10 @@ for read in bam.fetch(until_eof=True):
     locus_flank_data = loci_flank_data[locus_id]
     locus_flank_data.parse_graph_cigar(cigar_string)
 
-print('Done reading')
+print('Finished processing {} reads. Storing...'.format(sample))
 
-
-loci_ids = list(loci_flank_data.keys())
-
-if len(loci_ids) > 0:
-    locus_id = loci_ids[0]
+for locus_id in loci_flank_data:
     df = loci_flank_data[locus_id].to_df()
-    df['sample'] = 'HG00118_realigned.bam'
-    # df['sample'] = snakemake.wildcards['sample']
     df['locus_id'] = locus_id
-    df.to_csv(out_file_path, sep='\t', index=False)
-    del loci_flank_data[locus_id]
-
-for locus_id in loci_ids[1:]:
-    df = loci_flank_data[locus_id].to_df()
-    df['sample'] = 'HG00118_realigned.bam'
-    # df['sample'] = snakemake.wildcards['sample']
-    df['locus_id'] = locus_id
-    df.to_csv(out_file_path, mode='a', header=False)
-    del loci_flank_data[locus_id]
+    df = df.set_index(['locus_id', 'position'])
+    df.to_hdf(out_file_path, sample, format='table', append=True)
