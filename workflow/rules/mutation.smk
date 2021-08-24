@@ -7,7 +7,7 @@ rule parse_sample_mismatches:
         bam="resources/realigned_bam/{variant_catalog}/{sample}_realigned.sorted.bam",
         bai="resources/realigned_bam/{variant_catalog}/{sample}_realigned.sorted.bam.bai"
     output:
-        "resources/mutations/{variant_catalog}/{sample}.tsv"
+        "resources/mutations/{variant_catalog}/{sample}.h5"
     conda:
         "../envs/pysam.yaml"
     script:
