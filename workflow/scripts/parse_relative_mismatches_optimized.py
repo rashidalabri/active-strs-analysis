@@ -11,25 +11,19 @@ class LocusFlankData(object):
 
     def __init__(self) -> None:
         self.flank_data = {
-            'left': {},
-            'right': {}
+            'left': defaultdict(lambda: defaultdict(int)),
+            'right': defaultdict(lambda: defaultdict(int)),
         } 
-    
-    def add(self, flank, position, operation) -> None:
-        if position not in self.flank_data[flank]:
-            self.flank_data[flank][position] = {op: 0 for op in 'MXID'}
-        self.flank_data[flank][position][operation] += 1
     
     def add_range(self, flank, position, operation, count) -> None:
         for i in range(count):
-            self.add(flank, position + i, operation)
+            self.flank_data[flank][position + i][operation] += 1
 
     def parse_graph_cigar(self, cigar_string):
         nodes = extract_nodes_p.findall(cigar_string)
-        nodes = [(int(node_id), cigar_string) for node_id, cigar_string in nodes]
-        
         for node in nodes:
             node_id, cigar_string = node
+            node_id = int(node_id)
             if node_id == 0:
                 self.parse_cigar_string('left', cigar_string)
             elif node_id == 2:
@@ -87,7 +81,6 @@ print('Finished fetching {} reads. Parsing...'.format(sample))
 # Parse and store, while continously freeing up memory
 all_locus_ids = list(loci_cigars.keys())
 for locus_id in all_locus_ids:
-    t0 = time()
     locus_flank_data = LocusFlankData()
     for cigar_string in loci_cigars[locus_id]:
         locus_flank_data.parse_graph_cigar(cigar_string)
@@ -96,4 +89,3 @@ for locus_id in all_locus_ids:
     df = df.set_index(['locus_id', 'position'])
     df.to_hdf(out_file_path, sample, format='table', append=True, min_itemsize={ 'locus_id' : 32 })
     del loci_cigars[locus_id]
-    print('Took {}s to proccess one locus.'.format(time()-t0))
