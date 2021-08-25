@@ -11,7 +11,7 @@ rule parse_sample_mismatches:
     conda:
         "../envs/pysam.yaml"
     script:
-        "../scripts/parse_relative_mismatches.py"
+        "../scripts/parse_relative_mismatches_optimized.py"
 
 rule plot_mismatches:
     input:
